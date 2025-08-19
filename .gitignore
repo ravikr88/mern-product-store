@@ -1,0 +1,5 @@
+# Node modules (huge folder, can be installed via npm)
+node_modules/
+
+# Environment variables 
+.env
